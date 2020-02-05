@@ -1,0 +1,2 @@
+you can extract the trained model, an use the "03_Projet_text_Test_Model" jupyter notebook to load the model, 
+and test it
